@@ -15,8 +15,7 @@ show_related_posts: false
 show_post_footers:  true
 
 # Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: pablolerma
 
 # Social icons
 show_social_icons: true
