@@ -43,9 +43,14 @@ share_stumbleupon: false
 
 # Build settings
 gems: [jekyll-paginate]
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+markdown:     kramdown
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 permalink:    pretty
 paginate:     3
 sass:
