@@ -4,7 +4,7 @@ email:       me@plerma.com
 author:      Pablo Lerma
 description: "Pequeño blog sobre desarrollo iOS"
 baseurl:     ""
-url:         "http://www.plerma.com"
+url:         "https://www.plerma.com"
 
 # Google analytics
 google_analytics: UA-55026146-2
