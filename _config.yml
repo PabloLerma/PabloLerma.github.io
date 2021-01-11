@@ -1,7 +1,7 @@
 # Site settings
 title:       Pablo Lerma
 author:      Pablo Lerma
-description: "Pequeño blog sobre desarrollo iOS"
+description: "Blog personal sobre tecnología, productividad, finanzas..."
 baseurl:     ""
 url:         "https://www.plerma.com"
 
