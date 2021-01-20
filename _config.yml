@@ -11,7 +11,7 @@ google_analytics: UA-55026146-2
 # Optional features
 animated:           false
 show_related_posts: false
-show_post_footers:  true
+show_post_footers:  false
 
 # Disqus post comments
 disqus_shortname: pablolerma
@@ -40,8 +40,14 @@ share_tumblr: false
 share_reddit: false
 share_stumbleupon: false
 
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 # Build settings
-gems: [jekyll-paginate]
 markdown:     kramdown
 kramdown:
   auto_ids:       true
