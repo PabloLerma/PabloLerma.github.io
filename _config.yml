@@ -6,7 +6,7 @@ baseurl:     ""
 url:         "https://www.plerma.com"
 
 # Google analytics
-google_analytics: UA-55026146-2
+google_analytics: G-4XZD7RR0BH 
 
 # Optional features
 animated:           false
